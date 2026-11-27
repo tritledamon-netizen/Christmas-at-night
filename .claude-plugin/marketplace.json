@@ -1,0 +1,5 @@
+{
+  "name": "christmas-at-night",
+  "owner": { "name": "tritledamon-netizen" },
+  "plugins": [{ "name": "winter-night", "source": "./" }]
+}
